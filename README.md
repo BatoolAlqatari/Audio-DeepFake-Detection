@@ -1,7 +1,7 @@
 # 🎧 Audio Deepfake Detection Using Deep Learning
 
 ## 📌 Overview
-This project presents an AI-powered approach to detect **audio deepfakes**—synthetic voice recordings that mimic real individuals. Using deep learning techniques applied to spectrogram and MFCC representations, the system classifies real versus spoofed audio with high accuracy.
+This project presents an AI-powered approach to detect **audio deepfakes** a synthetic voice recordings that mimic real individuals. Using deep learning techniques applied to spectrogram and MFCC representations, the system classifies real versus spoofed audio with high accuracy.
 
 Deepfake audio can be maliciously used for impersonation, fraud, and misinformation. This model contributes toward building secure and trustworthy audio-based applications, especially in digital media and security contexts.
 
